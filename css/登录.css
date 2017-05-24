@@ -1,0 +1,155 @@
+
+#content{
+	width:100%;
+	overflow:hidden;
+	background: #CECECE;
+	background:url(../img/bj.png);
+}
+.content-1{
+	padding-top:50px;
+	height:561px;
+	width:980px;
+	margin:0 auto;
+	position:relative;
+}
+.left{
+	float:left;
+	margin-left:20px;
+}
+.right{
+	float:right;
+	height:431px;
+	width:460px;
+	margin-right:20px;
+	border:1px solid #333333;
+	background:#ffffff;
+}
+.right form{
+	height:250px;
+	width:350px;
+	margin:20px auto;
+}
+.right form p{
+	text-align: center;
+	height:28px;
+}
+.icon-3{
+	display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+    width: 28px;
+    height: 28px;
+    background: url(../img/loginIcon.gif) no-repeat -94px -3px;
+}
+.user{
+	height:54px;
+	width:350px;
+	border:1px solid #CECECE;
+	margin:0 auto;
+	background:#ffffff;
+}
+.user i{
+	margin-left:20px;
+	display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+    width: 18px;
+    height: 18px;
+    background: url(../img/loginIcon.gif) no-repeat -46px 0;
+}
+.user input {
+	margin-top:15px;
+	width:260px;
+	height:27px;
+	line-height:27px;
+	border:none;
+}
+.password{
+	height:54px;
+	width:350px;
+	border:1px solid #CECECE;
+	border-top:none;
+	margin:0 auto;
+}
+.password i{
+	margin-left:20px;
+	display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+    width: 18px;
+    height: 18px;
+    background: url(../img/loginIcon.gif) no-repeat -72px 0;
+}
+.password input {
+	margin-top:15px;
+	width:260px;
+	height:27px;
+	line-height:27px;
+	border:none;
+}
+.con-1{
+	height:54px;
+	width:350px;
+	margin:0 auto;
+    line-height:54px;
+}
+.con-1 .auto{
+	float:left;
+}
+.con-1 a{
+	float:right;
+}
+.con-1 a:hover{
+	color:red;
+}
+.btn{
+	display: inline-block;
+	width:348px;
+	height:42px;
+	text-align:center;
+	line-height:42px;
+	background:red;
+	color:#FFFFFF;
+}
+.solid{
+	margin:0px;
+	padding:0px;
+	width:432px;
+	height:8px;
+	margin:0 auto;
+	background: url(../img/dashed_bg.gif) repeat-x;
+}
+.login-meoth{
+	width:350px;
+	height:70px;
+	margin:10px auto;
+}
+.login-meoth a{
+	 display: inline-block;
+	 margin-top:10px;
+	 margin-right:20px;
+	 width: 45px;
+     height: 45px;
+}
+.login-meoth a:nth-of-type(1){
+    background: url(../img/qq.png) no-repeat 0px 2px;
+}
+.login-meoth a:nth-of-type(2){
+    background: url(../img/zfb.png) no-repeat 0px 2px;
+}
+.login-meoth a:nth-of-type(3){
+    background: url(../img/ico38.png) no-repeat 0px 2px;
+}
+.zhuce{
+	position: absolute;
+    display: block;
+    right: 20px;
+    bottom: 90px;
+    width: 113px;
+    height: 38px;
+    text-align: center;
+    line-height: 38px;
+    color: #fff;
+    background: #ff0421;
+}
+

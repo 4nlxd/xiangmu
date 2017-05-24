@@ -1,0 +1,31 @@
+#content{
+	width:100%;
+	
+}
+.min{
+	height:602px;
+	width:980px;
+	margin:30px auto;
+	border:3px solid #CECECE;
+}
+.left{
+	height:600px;
+	width:420px;
+	float:left;
+	
+}
+.btn{
+	width:515px;
+	height:51px;
+	margin: 33px auto 0 auto;
+	background:red;
+}
+.right{
+	height:600px;
+	width:356px;
+	float:right;
+	border-left:1px solid #CECECE;
+}
+.right img{
+	margin:130px auto;
+}
